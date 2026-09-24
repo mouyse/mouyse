@@ -3,8 +3,6 @@
 
 - 👋 Shalom, I'm Jay. Being an introvert, I stay away from most social media — except Reddit (if you really count that one). Goodreads, Delancey Place, The Ken, Mint, David Perell, Dan Lewis's *Now I Know*, The Harvard Gazette, and Aeon Magazine are my usual go-to places when I feel overwhelmed with work.
 
-- 🔭 I'm currently building identity, AI-integration, and automation features on **Bonzo**, a mortgage CRM used across New American Funding — full-stack work in Laravel/PHP and Vue/Nuxt.
-
 - 👀 I'm interested in expanding my horizons by learning new technologies and staying current on tech trends, global economies, and geopolitics. I'm also an avid wanderer — I often take the road less travelled to reset my regular work routine, meet new people, and learn about different cultures and languages.
 
 - 🌱 I'm currently learning how to stay consistent in keeping my learning curve upward, being a good human, and contributing to making the world a little better in whatever way I can.
